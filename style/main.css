@@ -374,8 +374,8 @@ hr {
       .tile.tile-2048 .tile-inner {
         font-size: 0px; } }
   .tile.tile-super .tile-inner {
-    color: #f9f6f2;
-    background: #3c3a32;
+    background-image: url(../static/andy4096.jpg);
+    background-size:100%;
     font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
